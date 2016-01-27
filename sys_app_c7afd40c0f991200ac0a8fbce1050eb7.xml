@@ -9,10 +9,10 @@
         <menu/>
         <name>Demo</name>
         <private>false</private>
+        <restrict_runtime_access>false</restrict_runtime_access>
         <restrict_table_access>true</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_sn_demo</scope>
-        <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_sn_demo</source>
         <store_correlation_id/>
