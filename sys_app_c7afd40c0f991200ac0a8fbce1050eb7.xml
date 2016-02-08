@@ -9,10 +9,10 @@
         <menu/>
         <name>Demo</name>
         <private>false</private>
-        <restrict_runtime_access>false</restrict_runtime_access>
         <restrict_table_access>true</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_sn_demo</scope>
+        <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_sn_demo</source>
         <store_correlation_id/>
@@ -22,9 +22,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-01-26 19:17:15</sys_created_on>
         <sys_id>c7afd40c0f991200ac0a8fbce1050eb7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-01-26 19:17:15</sys_updated_on>
+        <sys_updated_on>2016-02-08 17:05:08</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
