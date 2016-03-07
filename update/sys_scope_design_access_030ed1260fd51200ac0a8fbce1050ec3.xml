@@ -5,7 +5,7 @@
         <sys_class_name>sys_scope_design_access</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-02-03 18:14:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>030ed1260fd51200ac0a8fbce1050ec3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>b3fe25bd0f911200ac0a8fbce1050e57</sys_name>
@@ -16,6 +16,6 @@
         <sys_update_name>sys_scope_design_access_030ed1260fd51200ac0a8fbce1050ec3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-02-03 18:14:40</sys_updated_on>
-        <target_package display_value="Incident" source="com.snc.incident">b3fe25bd0f911200ac0a8fbce1050e57</target_package>
+        <target_package display_value="Incident" source="com.snc.incident">b10575eb13f1120013cebf173244b021</target_package>
     </sys_scope_design_access>
 </record_update>
