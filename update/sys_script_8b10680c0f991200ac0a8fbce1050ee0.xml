@@ -31,7 +31,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-	current.short_description = "demo3";
+	current.short_description = "demo5";
 	current.update();
 
 })(current, previous);]]></script>
@@ -42,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8b10680c0f991200ac0a8fbce1050ee0</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>UpdateIncTbl</sys_name>
         <sys_overrides/>
         <sys_package display_value="Demo" source="x_sn_demo">c7afd40c0f991200ac0a8fbce1050eb7</sys_package>
@@ -51,7 +51,7 @@
         <sys_scope display_value="Demo">c7afd40c0f991200ac0a8fbce1050eb7</sys_scope>
         <sys_update_name>sys_script_8b10680c0f991200ac0a8fbce1050ee0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-03-14 23:02:48</sys_updated_on>
+        <sys_updated_on>2016-07-13 20:23:56</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
